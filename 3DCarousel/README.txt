@@ -1,3 +1,4 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/isabellaohq/pen/aqxGzp.
+A 3D Carsousel Demo using HTML, CSS, JS.
 
- 
+Image Credit To: Wlop
+Design Credit To: Dudley Storey
